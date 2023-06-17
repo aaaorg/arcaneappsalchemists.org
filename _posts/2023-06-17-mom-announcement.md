@@ -16,8 +16,8 @@ It is a simple e-shop for small groups and colleagues, who love to share beverag
 
 ## Where can I find more about it?
 
-- Main repository is available here https://github.com/aaaorg/mom
-- You can track our progress in this project https://github.com/orgs/aaaorg/projects/1/views/3
+- [Main repository is available on Github](https://github.com/aaaorg/mom)
+- [You can track our progress in this project](https://github.com/orgs/aaaorg/projects/1/views/3)
 - You can also view some documents made along the way
   - [MOM Planning and Requirement Analysis Form](https://github.com/aaaorg/mom/files/11629136/MOM.Planning.and.Requirement.Analysis.Form.pdf)
   - [MOM Planning and Requirement Analysis Answers Overview](https://github.com/aaaorg/mom/files/11629137/MOM.Planning.and.Requirement.Analysis.Answers.Overview.pdf)
