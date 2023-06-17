@@ -16,7 +16,9 @@ It is a simple e-shop for small groups and colleagues, who love to share beverag
 
 ## Where can I find it?
 
-Main repository is available here https://github.com/aaaorg/mom
-You can track our progress in this project https://github.com/orgs/aaaorg/projects/1/views/3
+- Main repository is available here https://github.com/aaaorg/mom
+- You can track our progress in this project https://github.com/orgs/aaaorg/projects/1/views/3
 
-We have finished stage 3 of SDLC and are entering stage 4 (actually writing code) today!
+## What is current status?
+
+We have finished stage 3 of SDLC and are entering stage 4, that is actually writing code, today!
